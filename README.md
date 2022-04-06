@@ -8,6 +8,8 @@
 
 # PVPC Hourly Pricing Card
 
+forked from sargue/pvpc-hourly-pricing-card
+
 Home Assistant Lovelace custom card to use with [Spain electricity hourly pricing (PVPC) integration](https://www.home-assistant.io/integrations/pvpc_hourly_pricing/).
 
 ![Card Example](https://raw.githubusercontent.com/danimart1991/pvpc-hourly-pricing-card/master/docs/images/card-example.png)
